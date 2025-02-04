@@ -8,7 +8,7 @@ function toggleMode() {
     // substituir a imagem
     if(html.classList.contains('light')) {
         //se tiver light mode, adicionar a imagem light
-        img.setAttribute('src', './assets/avatar-light1.png')
+        img.setAttribute('src', './assets/avatar-claro.png')
         alt.setAttribute("Foto de Mayk Brito com barba")
        
     } else {
